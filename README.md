@@ -1,1 +1,1 @@
-keex-personal-site
+keex-public-site
